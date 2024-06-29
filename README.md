@@ -1,1 +1,1 @@
-# sistema_bancario
+Desafio da plataforma DIO: Criar um sistema bancário que realize operações bancárias simples como depósitos, saques e visualização de extrato. Nessa branch o código sofreu alguma aterações em decorrência do avanço do aprendizado do curso
